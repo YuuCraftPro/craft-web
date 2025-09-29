@@ -1,2 +1,2 @@
-# craft-web
-yuuCraft Website
+# yuucraft.ddns.net
+yuuCraftのWebサイトです。
